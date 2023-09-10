@@ -1,0 +1,262 @@
+{
+  "Books": [
+    {
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "ISBN": "9780061120084",
+      "IsAvailable": false
+    },
+    {
+      "Title": "1984",
+      "Author": "George Orwell",
+      "ISBN": "9780451524935",
+      "IsAvailable": false
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "ISBN": "9780743273565",
+      "IsAvailable": false
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "ISBN": "9780141439518",
+      "IsAvailable": false
+    },
+    {
+      "Title": "Moby-Dick",
+      "Author": "Herman Melville",
+      "ISBN": "9781853260087",
+      "IsAvailable": false
+    },
+    {
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "ISBN": "9780316769488",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "ISBN": "9780345339683",
+      "IsAvailable": true
+    },
+    {
+      "Title": "War and Peace",
+      "Author": "Leo Tolstoy",
+      "ISBN": "9780199232765",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Lord of the Rings",
+      "Author": "J.R.R. Tolkien",
+      "ISBN": "9780618640157",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Don Quixote",
+      "Author": "Miguel de Cervantes",
+      "ISBN": "9780060934347",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Odyssey",
+      "Author": "Homer",
+      "ISBN": "9780140268867",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Frankenstein",
+      "Author": "Mary Shelley",
+      "ISBN": "9780486282114",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Wuthering Heights",
+      "Author": "Emily Brontë",
+      "ISBN": "9780141439556",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Dracula",
+      "Author": "Bram Stoker",
+      "ISBN": "9780141439846",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Picture of Dorian Gray",
+      "Author": "Oscar Wilde",
+      "ISBN": "9780141439570",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Alice's Adventures in Wonderland",
+      "Author": "Lewis Carroll",
+      "ISBN": "9780141439761",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Jane Eyre",
+      "Author": "Charlotte Brontë",
+      "ISBN": "9780141441146",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Les Misérables",
+      "Author": "Victor Hugo",
+      "ISBN": "9780140444308",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Crime and Punishment",
+      "Author": "Fyodor Dostoevsky",
+      "ISBN": "9780140449136",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Brothers Karamazov",
+      "Author": "Fyodor Dostoevsky",
+      "ISBN": "9780141959721",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Adventures of Sherlock Holmes",
+      "Author": "Arthur Conan Doyle",
+      "ISBN": "9780140439083",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Sense and Sensibility",
+      "Author": "Jane Austen",
+      "ISBN": "9780141439662",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Call of the Wild",
+      "Author": "Jack London",
+      "ISBN": "9780141439662",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Road",
+      "Author": "Cormac McCarthy",
+      "ISBN": "9780307387899",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Shining",
+      "Author": "Stephen King",
+      "ISBN": "9780307743657",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Stand",
+      "Author": "Stephen King",
+      "ISBN": "9780307743688",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "ISBN": "9780439023481",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Philosopher's Stone",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747532743",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Chamber of Secrets",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747538493",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Prisoner of Azkaban",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747546290",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Goblet of Fire",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747550990",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Order of the Phoenix",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747551002",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Half-Blood Prince",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780747581085",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows",
+      "Author": "J.K. Rowling",
+      "ISBN": "9780545010221",
+      "IsAvailable": true
+    },
+    {
+      "Title": "The Da Vinci Code",
+      "Author": "Dan Brown",
+      "ISBN": "9780307474278",
+      "IsAvailable": true
+    },
+    {
+      "Title": "Angels & Demons",
+      "Author": "Dan Brown",
+      "ISBN": "9780671027360",
+      "IsAvailable": true
+    }
+  ],
+  "Readers": [
+    {
+      "Name": "John Smith",
+      "BorrowedBooks": [
+        {
+          "Title": "To Kill a Mockingbird",
+          "Author": "Harper Lee",
+          "ISBN": "9780061120084",
+          "IsAvailable": false
+        },
+        {
+          "Title": "1984",
+          "Author": "George Orwell",
+          "ISBN": "9780451524935",
+          "IsAvailable": false
+        },
+        {
+          "Title": "The Great Gatsby",
+          "Author": "F. Scott Fitzgerald",
+          "ISBN": "9780743273565",
+          "IsAvailable": false
+        }
+      ]
+    },
+    {
+      "Name": "Jane Doe",
+      "BorrowedBooks": [
+        {
+          "Title": "Pride and Prejudice",
+          "Author": "Jane Austen",
+          "ISBN": "9780141439518",
+          "IsAvailable": false
+        },
+        {
+          "Title": "Moby-Dick",
+          "Author": "Herman Melville",
+          "ISBN": "9781853260087",
+          "IsAvailable": false
+        }
+      ]
+    }
+  ]
+}
